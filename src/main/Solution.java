@@ -55,7 +55,6 @@ public class Solution {
         System.out.println("Test case #4:");
 
         System.out.println(isWithinKSec(grid4, 26));
-
         System.out.println(isWithinKSec(grid4, 27));
 
         char[][] grid5 =
